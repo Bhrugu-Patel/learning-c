@@ -1,3 +1,5 @@
+//anagram eg-->
+//listen-silent
 #include<stdio.h>
 #include<string.h>
    void main()
